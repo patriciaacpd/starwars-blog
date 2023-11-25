@@ -1,3 +1,13 @@
-/* 
-    General Styles
-*/
+.scroll{
+    overflow-x: scroll;
+}
+.down {
+    min-height: 75vh;
+}
+.tarjeta{
+    width: 250px;
+}
+.logo {
+    height: 60px;
+}
+
